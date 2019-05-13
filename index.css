@@ -1,0 +1,55 @@
+body{
+    background-image: url(download.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center; 
+}
+
+form{
+    border: 3px solid #bdc7c6;
+    background-color: #44b0b800;
+    display: inline-block;
+    border-radius: 16px;
+    padding: 20px 60px 30px 20px;
+    text-align: left;
+    margin: 110px;
+    
+}
+
+label{
+    display: inline-block;
+    text-align: left;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+input{
+    width: 100%;
+    padding-right: 100px;
+}
+
+button{
+    margin-top: 20px;
+    padding: 12px 25px;
+    background-color: #50c70c;
+    border: 2px solid #50c70c8a;
+    color: white;
+    font-size: 15px;
+}
+
+button:hover{
+    background-color:rgba(36, 131, 226, 0.959);
+    cursor:pointer;
+}
+
+a{
+    float: right;
+    margin-right:6px;
+    margin-top:30px;
+    font-size: 18px;
+}
+
+a:hover{
+    color:red;
+}
